@@ -11,7 +11,7 @@ According to the experimental results, we can conclude that: **(1)** the heurist
 
 * Robson Parmezan Bonidia; Tatianne da Costa Negri; Wonder Alexandre Luz Alves; André Yoshiaki Kashiwabara; Douglas Silva Domingues; André Carlos Ponce de Leon Ferreira de Carvalho; Alexandre Rossi Paschoal; Danilo Sipoli Sanches;
 
-* **Correspondence:** robservidor@gmail.com and
+* **Correspondence:** robservidor@gmail.com and danilosanches@utfpr.edu.br
 
 
 ## Publication
