@@ -93,11 +93,9 @@ Depending upon the version of your Linux/Debian/Ubuntu operating system, the spe
 
 ```sh
 
-$ sudo chmod -R 755
+$ git clone https://github.com/Bonidia/FeatureSelection_lncRNAs.git script_lncRNAs
 
-$ sudo chmod -R 755
-
-$ sudo chmod -R 755
+Changing security permissions: $ sudo chmod -R 755 script_lncRNAs
 
 ```
 
@@ -105,10 +103,8 @@ $ sudo chmod -R 755
 
 ```sh
 
-Access folder: $ cd 
+Access folder: $ cd script_lncRNAs
  
-Changing security permissions: $ sudo chmod 755 run.sh
-
 To run the tool: $ ./run.sh
 
 Choose a model and start classifying lncRNAs.
@@ -117,7 +113,7 @@ Choose a model and start classifying lncRNAs.
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![y](https://github.com/Bonidia/FeatureSelection_lncRNAs/blob/master/Example/Screenshot.png)
 
 ## References
 
