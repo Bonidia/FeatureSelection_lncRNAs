@@ -16,7 +16,7 @@ According to the experimental results, we can conclude that: **(1)** the heurist
 
 ## Publication
 
-Submitted
+Bonidia, R. P., de Leon Ferreira, A. C. P., Paschoal, A. R., & Sanches, D. S. (2019, October). Selecting the Most Relevant Features for the Identification of Long Non-Coding RNAs in Plants. In 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) (pp. 539-544). IEEE.
 
 ## List of files
 
@@ -115,8 +115,8 @@ Choose a model and start classifying lncRNAs.
 
 ![y](https://github.com/Bonidia/FeatureSelection_lncRNAs/blob/master/Example/Screenshot.png)
 
-## References
+## About
 
-Eibe Frank, Mark A. Hall, and Ian H. Witten (2016). The WEKA Workbench. Online Appendix for "Data Mining: Practical Machine Learning Tools and Techniques", Morgan Kaufmann, Fourth Edition, 2016.
+If you use this code in a scientific publication, we would appreciate citations to the following paper:
 
-Kent, W.J., Sugnet, C.W., Furey, T.S., Roskin, K.M., Pringle, T.H., Zahler, A.M., Haussler, D.: The human genome browser at ucsc. Genome research 12(6), 996–1006 (2002)
+Bonidia, R. P., de Leon Ferreira, A. C. P., Paschoal, A. R., & Sanches, D. S. (2019, October). Selecting the Most Relevant Features for the Identification of Long Non-Coding RNAs in Plants. In 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) (pp. 539-544). IEEE.
